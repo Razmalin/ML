@@ -1,3 +1,5 @@
+# Основные задачи машинного обучения
+
 Репозиторий состоит из 4 файлов формата Jupyter Notebook. Каждый из них представляет решение одной из основных задач машинного обучения.
 
 Так же в репозитории хранятся файлы промежуточной обработки входного набора данных. Исходный набор доступен по ссылке [https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather)
